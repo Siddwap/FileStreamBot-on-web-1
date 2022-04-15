@@ -1,5 +1,3 @@
-# (c) ChVivekTomar
-
 import asyncio
 import logging
 import aiohttp
