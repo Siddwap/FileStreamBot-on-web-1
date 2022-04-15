@@ -1,4 +1,3 @@
-# (c) ChVivekTomar
 import os
 import sys
 import glob
@@ -58,7 +57,7 @@ async def start_services():
     print('\n')
     print('---------------------------------------------------------------------------------------------------------')
     print('---------------------------------------------------------------------------------------------------------')
-    print('Join https://t.me/ChVivekTomar  to follow me for new bots')
+    print('Join https://t.me/GreyMatter_bots  to follow me for new bots')
     print('---------------------------------------------------------------------------------------------------------')
     print('\n')
     print('----------------------- Service Started -----------------------------------------------------------------')
@@ -68,7 +67,7 @@ async def start_services():
     if Var.ON_HEROKU:
         print('                        app runnng on =>> {}'.format(Var.FQDN))
     print('---------------------------------------------------------------------------------------------------------')
-    print('Give a star to my repo https://github.com/im-vivektomar/FileStreamBot  also follow me for new bots')
+    print('Give a star to my repo https://github.com/GreyMatter658/FileStreamBot-on-web  also follow me for new bots')
     print('---------------------------------------------------------------------------------------------------------')
     await idle()
 
