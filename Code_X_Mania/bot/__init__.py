@@ -1,4 +1,3 @@
-# (c) ChVivekTomar
 from pyrogram import Client
 from ..vars import Var
 
