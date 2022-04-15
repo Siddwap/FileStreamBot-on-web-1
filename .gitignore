@@ -115,6 +115,6 @@ dmypy.json
 
 #session files
 *.session
-Code_X_Mania/template/new.html
-Code_X_Mania/template/beta.html
-Code_X_Mania/template/style.css
+GreyMatter_Bots/template/new.html
+GreyMatter_Bots/template/beta.html
+GreyMatter_Bots/template/style.css
