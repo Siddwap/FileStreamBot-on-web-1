@@ -1,1 +1,1 @@
-# (c) Code-X-Mania
+# (c) GreyMatters Bot
