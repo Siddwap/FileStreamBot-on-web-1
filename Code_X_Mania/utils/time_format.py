@@ -1,4 +1,3 @@
-# (c) ChVivekTomar
 # Bot Uptime
 
 def get_readable_time(seconds: int) -> str:
