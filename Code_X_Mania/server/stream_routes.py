@@ -1,4 +1,3 @@
-# (c) ChVivekTomar
 import time
 import math
 import logging
@@ -18,7 +17,7 @@ kg18="ago"
 @routes.get("/", allow_head=True)
 async def root_route_handler(request):
     return web.json_response({"status": "running",
-                              "maintained_by": "Vivek Tomar @ChVivekTomar",
+                              "maintained_by": "GreyMatters Bot @GreyMatter_bots",
                               "uptime": get_readable_time(time.time() - StartTime),
                               "Bot was last updated": get_readable_time(time.time()),
                               "ago":"",
