@@ -89,8 +89,8 @@
           "required": false
       },
       "SESSION_NAME": {
-          "description": " Session Name for Bot [ Add Code-X-Mania]",
-          "value": "Code-X-Mania",
+          "description": " Session Name for Bot [ Add GreyMatter_bots]",
+          "value": "GreyMatter_bots",
           "required": false
       }
   },
