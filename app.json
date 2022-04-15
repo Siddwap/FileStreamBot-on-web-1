@@ -1,6 +1,6 @@
 {
-  "name": "Vivek-FileStreamBot",
-  "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @adarsh_status_bot",
+  "name": "Web-FileStreamBot",
+  "description": "A Pyrogram Telegram bot to Stream Telegram files to web.",
   "keywords": [
       "telegram",
       "stream",
@@ -13,10 +13,10 @@
       "media",
       "bot"
     ],
-  "repository": "https://github.com/im-vivektomar/FileStreamBot",
-  "success_url": "https://t.me/ChVivekTomar",
+  "repository": "https://github.com/GreyMatter658/FileStreamBot-on-web",
+  "success_url": "https://t.me/GreyMatter_bots",
   "logo": "https://i.ibb.co/48TTBY3/web-link-icon-13.png",
-  "website": "https://t.me/ChVivekTomar",
+  "website": "https://t.me/GreyMatter_bots",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
