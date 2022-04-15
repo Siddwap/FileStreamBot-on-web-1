@@ -1,5 +1,3 @@
-# (c) vivek-tomar
-
 from Code_X_Mania.bot import StreamBot
 from Code_X_Mania.vars import Var
 from Code_X_Mania.utils.human_readable import humanbytes
@@ -57,7 +55,7 @@ async def start(b, m):
             except Exception:
                 await b.send_message(
                     chat_id=m.chat.id,
-                    text="<i>🤦🏻‍♂️ 𝐒𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠 𝐖𝐞𝐧𝐭 𝐖𝐫𝐨𝐧𝐠</i> <b> <a href='http://t.me/ChVivekTomar'>CLICK HERE FOR SUPPORT </a></b>",
+                    text="<i>🤦🏻‍♂️ 𝐒𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠 𝐖𝐞𝐧𝐭 𝐖𝐫𝐨𝐧𝐠</i> <b> <a href='http://t.me/Moksh_b658'>CLICK HERE FOR SUPPORT </a></b>",
                     parse_mode="HTML",
                     disable_web_page_preview=True)
                 return
@@ -72,7 +70,7 @@ async def start(b, m):
             parse_mode="HTML",
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup( [ [InlineKeyboardButton('Owner', url=f"https://t.me/Moksh_b658"),
-                                                                                       InlineKeyboardButton('Follow Developer ', url='https://github.com/im-vivektomar') ] ]  ) )
+                                                                                       InlineKeyboardButton('Follow Developer ', url='https://github.com/GreyMatter658') ] ]  ) )
                                                                                        
                                                                                        
                                                                             
@@ -211,7 +209,7 @@ async def help_handler(bot, message):
             
           reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("😇Donate", url="https://t.me/ChVivekTomar")]
+                [InlineKeyboardButton("😇Donate", url="https://t.me/greymatters_about/13")]
             ]
         )
     )
