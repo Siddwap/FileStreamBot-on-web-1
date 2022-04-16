@@ -152,6 +152,6 @@ FQDN= Enter Custom domain if any or server ip
 
 
 To get an instant stream link, just forward any media to the bot and boom, its fast af.
-![image](https://user-images.githubusercontent.com/88939380/145798095-3cdad108-96b0-4391-a540-cad144d6b864.png)
+![image]
 
 
