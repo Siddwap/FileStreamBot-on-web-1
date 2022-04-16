@@ -18,7 +18,7 @@
 
 ## 🍁 About This Bot :
 
-![streaming-Professional-live_1](https://user-images.githubusercontent.com/88939380/137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png)
+![streaming-Professional-live_1]
 
 </p>
 
@@ -155,24 +155,3 @@ To get an instant stream link, just forward any media to the bot and boom, its f
 ![image](https://user-images.githubusercontent.com/88939380/145798095-3cdad108-96b0-4391-a540-cad144d6b864.png)
 
 
-### Channel Support
-`Bot also Supports with Channels. Just add bot Channel as Admin. If any new file comes in Channel it will edit it with Get Download Link Button.` </details>
-
-## Follow Me🔥:
-
-
-<p align="left">
-<a href="https://t.me/+4BCzLkyATjswNTA1"><img src="https://img.shields.io/badge/Join%20Our%20Group-Vivek%20Tomar-darkblue?style=for-the-badge&logo=telegram"></a>
-</p>
-<p align="left">
-<a href="https://github.com/im-vivektomar"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="left">
-<a href="https://instagram.com/ch.vivek_tomar"><img src="https://img.shields.io/badge/Instagram-Vivek Tomar-magenta?style=for-the-badge&logo=instagram"></a>
-</p>
-
-##  CONTACT ME ON ⬇️ 
-
-<p align="left">
-<a href="https://t.me/ChVivekTomar"><img src="https://img.shields.io/badge/My%20TG%20ID-Vivek%20Tomar-darkblue?style=for-the-badge&logo=telegram"></a>
-</p>
